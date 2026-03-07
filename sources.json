@@ -2116,5 +2116,707 @@
     "url": "https://jobs.lever.co/mistral",
     "type": "lever",
     "source_list": "linkedin/brex"
+  },
+  {
+    "name": "Andreessen Horowitz (a16z)",
+    "url": "https://jobs.a16z.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Sequoia Capital",
+    "url": "https://jobs.sequoiacap.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Accel",
+    "url": "https://jobs.accel.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Kleiner Perkins",
+    "url": "https://jobs.kpcb.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Greylock Partners",
+    "url": "https://jobs.greylock.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Lightspeed Venture Partners",
+    "url": "https://jobs.lsvp.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Bessemer Venture Partners",
+    "url": "https://jobs.bvp.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "General Catalyst",
+    "url": "https://jobs.generalcatalyst.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Index Ventures",
+    "url": "https://jobs.indexventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Khosla Ventures",
+    "url": "https://jobs.khoslaventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Battery Ventures",
+    "url": "https://jobs.battery.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "New Enterprise Associates (NEA)",
+    "url": "https://jobs.nea.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Founders Fund",
+    "url": "https://foundersfund.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Tiger Global",
+    "url": "https://www.tigerglobal.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Coatue Management",
+    "url": "https://www.coatue.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Insight Partners",
+    "url": "https://www.insightpartners.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Softbank Vision Fund",
+    "url": "https://www.softbank.jp/en/corp/recruit/",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "GV (Google Ventures)",
+    "url": "https://www.gv.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Intel Capital",
+    "url": "https://www.intelcapital.com/careers/",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Salesforce Ventures",
+    "url": "https://www.salesforceventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Microsoft M12",
+    "url": "https://m12.vc/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Qualcomm Ventures",
+    "url": "https://www.qualcommventures.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Y Combinator",
+    "url": "https://www.ycombinator.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Antler",
+    "url": "https://jobs.antler.co/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Techstars",
+    "url": "https://jobs.techstars.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "500 Global (500 Startups)",
+    "url": "https://jobs.500.co/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "First Round Capital",
+    "url": "https://jobs.firstround.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Union Square Ventures (USV)",
+    "url": "https://jobs.usv.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Benchmark",
+    "url": "https://benchmark.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Spark Capital",
+    "url": "https://jobs.sparkcapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Redpoint Ventures",
+    "url": "https://jobs.redpoint.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "IVP (Institutional Venture Partners)",
+    "url": "https://jobs.ivp.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Norwest Venture Partners",
+    "url": "https://jobs.nvp.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Mayfield Fund",
+    "url": "https://jobs.mayfield.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Social Capital",
+    "url": "https://jobs.socialcapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Forerunner Ventures",
+    "url": "https://jobs.forerunnerventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Lux Capital",
+    "url": "https://jobs.luxcapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Obvious Ventures",
+    "url": "https://jobs.obviousventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "CRV (Charles River Ventures)",
+    "url": "https://jobs.crv.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Felicis Ventures",
+    "url": "https://jobs.felicis.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Initialized Capital",
+    "url": "https://jobs.initialized.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Cowboy Ventures",
+    "url": "https://jobs.cowboy.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Greycroft",
+    "url": "https://jobs.greycroft.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Highland Capital Partners",
+    "url": "https://jobs.hcp.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "True Ventures",
+    "url": "https://jobs.trueventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "NextView Ventures",
+    "url": "https://jobs.nextview.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Eniac Ventures",
+    "url": "https://jobs.eniac.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Notation Capital",
+    "url": "https://jobs.notation.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Collaborative Fund",
+    "url": "https://jobs.collaborativefund.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Crosscut Ventures",
+    "url": "https://jobs.crosscut.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Mucker Capital",
+    "url": "https://jobs.mucker.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Upfront Ventures",
+    "url": "https://jobs.upfront.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Homebrew",
+    "url": "https://jobs.homebrew.co/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Root Ventures",
+    "url": "https://jobs.root.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Amplify Partners",
+    "url": "https://jobs.amplifypartners.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Uncork Capital",
+    "url": "https://jobs.uncork.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Foothill Ventures",
+    "url": "https://jobs.foothill.ventures/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Playground Global",
+    "url": "https://careers.playground.global/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Contrary Capital",
+    "url": "https://jobs.contrary.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Pear VC",
+    "url": "https://jobs.pear.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "8VC",
+    "url": "https://jobs.8vc.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "645 Ventures",
+    "url": "https://jobs.645ventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "25Madison",
+    "url": "https://jobs.25madison.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Panoramic Ventures",
+    "url": "https://jobs.panoramic.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Goodwater Capital",
+    "url": "https://portfoliojobs.goodwatercap.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "SOSV",
+    "url": "https://techjobs.sosv.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Anthemis Group",
+    "url": "https://jobs.anthemis.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "At One Ventures",
+    "url": "https://jobs.atoneventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "77 (MIT Fund)",
+    "url": "https://jobs.77.xyz/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Balderton Capital",
+    "url": "https://jobs.balderton.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Atomico",
+    "url": "https://jobs.atomico.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Northzone",
+    "url": "https://jobs.northzone.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Earlybird",
+    "url": "https://jobs.earlybird.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "HV Capital",
+    "url": "https://jobs.hvcapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Point Nine Capital",
+    "url": "https://jobs.pointnine.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Cherry Ventures",
+    "url": "https://jobs.cherry.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Project A Ventures",
+    "url": "https://jobs.project-a.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Seedcamp",
+    "url": "https://jobs.seedcamp.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "LocalGlobe",
+    "url": "https://jobs.localglobe.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Mosaic Ventures",
+    "url": "https://jobs.mosaicventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Octopus Ventures",
+    "url": "https://jobs.octopusventures.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Partech",
+    "url": "https://jobs.partech.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Vista Equity Partners",
+    "url": "https://www.vistaequitypartners.com/careers/",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Warburg Pincus",
+    "url": "https://www.warburgpincus.com/careers/",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Francisco Partners",
+    "url": "https://www.franciscopartners.com/about/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Silver Lake",
+    "url": "https://www.silverlake.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Summit Partners",
+    "url": "https://www.summitpartners.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Riverwood Capital",
+    "url": "https://www.riverwoodcapital.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Precursor Ventures",
+    "url": "https://jobs.precursorvc.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Wonder Ventures",
+    "url": "https://jobs.wondervc.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Hustle Fund",
+    "url": "https://jobs.hustlefund.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Backstage Capital",
+    "url": "https://jobs.backstagecapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Harlem Capital",
+    "url": "https://jobs.harlemcapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Kapor Capital",
+    "url": "https://jobs.kaporcapital.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Plexo Capital",
+    "url": "https://www.plexocap.com/careers",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "BITKRAFT Ventures",
+    "url": "https://jobs.bitkraft.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Lerer Hippeau",
+    "url": "https://jobs.lererhippeau.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "RRE Ventures",
+    "url": "https://jobs.rre.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Brooklyn Bridge Ventures",
+    "url": "https://www.brooklynbridge.vc/portfolio#jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "RTP Global",
+    "url": "https://jobs.rtp.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Conductive Ventures",
+    "url": "https://jobs.conductive.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Costanoa Ventures",
+    "url": "https://jobs.costanoa.vc/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "OVF (Oregon Venture Fund)",
+    "url": "https://jobs.oregonvf.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "CEAS Investments",
+    "url": "https://jobs.ceasinvestments.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Powerhouse Ventures",
+    "url": "https://jobs.powerhouse.fund/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Footprint Coalition",
+    "url": "https://www.footprintcoalition.com/ventures",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Congruent Ventures",
+    "url": "https://jobs.congruentvc.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "AngelList",
+    "url": "https://angel.co/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "SV Angel",
+    "url": "https://svangel.com/portfolio",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Ron Conway / SV Angel",
+    "url": "https://svangel.com",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Mike Maples / Floodgate",
+    "url": "https://jobs.floodgate.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Jobs in VC (Getro aggregator)",
+    "url": "https://jobsinvc.getro.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Getro Community Board",
+    "url": "https://community.getro.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "VC Stack Job Board",
+    "url": "https://www.vcstack.com/job",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Venture Capital Careers",
+    "url": "https://venturecapitalcareers.com/",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "John Gannon VC Jobs",
+    "url": "https://johngannonblog.com/",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
+  },
+  {
+    "name": "VC Platform Job Board",
+    "url": "https://www.vcplatform.com/jobs",
+    "type": "career_page",
+    "source_list": "vc_job_boards"
   }
 ]
