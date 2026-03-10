@@ -2818,5 +2818,119 @@
     "url": "https://www.vcplatform.com/jobs",
     "type": "career_page",
     "source_list": "vc_job_boards"
+  },
+  {
+    "name": "Cohere",
+    "url": "https://jobs.ashbyhq.com/cohere",
+    "type": "ashby",
+    "source_list": "manual"
+  },
+  {
+    "name": "Tailscale",
+    "url": "https://tailscale.com/careers#open-job-positions",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "CoreWeave / Weights & Biases",
+    "url": "https://coreweave.com/careers/weights-biases",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Aha!",
+    "url": "https://www.aha.io/company/careers/current-openings",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Hubstaff",
+    "url": "https://hubstaff.com/jobs#hsds-open-positions",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Toptal Careers",
+    "url": "https://www.toptal.com/careers#positions",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Toptal Freelance Jobs",
+    "url": "https://www.toptal.com/freelance-jobs",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Hex",
+    "url": "https://hex.tech/careers/",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Splice",
+    "url": "https://job-boards.greenhouse.io/splice",
+    "type": "greenhouse",
+    "source_list": "manual"
+  },
+  {
+    "name": "Teleport",
+    "url": "https://goteleport.com/careers/",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "LaunchDarkly",
+    "url": "https://launchdarkly.com/careers/",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Coder",
+    "url": "https://jobs.ashbyhq.com/Coder",
+    "type": "ashby",
+    "source_list": "manual"
+  },
+  {
+    "name": "Pulumi",
+    "url": "https://www.pulumi.com/careers/",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Miro",
+    "url": "https://miro.com/careers/open-positions/",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Krisp",
+    "url": "https://krisp.ai/careers/#job_listings",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "dbt Labs",
+    "url": "https://www.getdbt.com/about-us/careers#roles",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "We Work Remotely - Customer (US)",
+    "url": "https://weworkremotely.com/remote-jobs/search?term=customer&country[]=US",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "TestGorilla",
+    "url": "https://www.testgorilla.com/careers/#jobs",
+    "type": "career_page",
+    "source_list": "manual"
+  },
+  {
+    "name": "Temporal",
+    "url": "https://temporal.io/careers#become-a-temporalite",
+    "type": "career_page",
+    "source_list": "manual"
   }
 ]
